@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todoist-react/static/css/main.3138405f.css",
+    "main.js": "/todoist-react/static/js/main.06412fce.js",
+    "index.html": "/todoist-react/index.html",
+    "main.3138405f.css.map": "/todoist-react/static/css/main.3138405f.css.map",
+    "main.06412fce.js.map": "/todoist-react/static/js/main.06412fce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3138405f.css",
+    "static/js/main.06412fce.js"
+  ]
+}
